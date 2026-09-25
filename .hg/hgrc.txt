@@ -1,0 +1,10 @@
+[paths]
+default = https://svn.eul.edu.tr/repo/nisanur22120880aiposturefee_251
+
+[ui]
+username = 22120880
+
+[auth]
+svn.prefix = svn.eul.edu.tr
+svn.username = 22120880
+svn.password = uYY7Jqio

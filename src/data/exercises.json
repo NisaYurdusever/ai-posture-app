@@ -1,0 +1,220 @@
+[
+  {
+    "id": "plank",
+    "name": "Plank",
+    "type": "timed",
+    "duration": {
+      "beginner": 30,
+      "intermediate": 45,
+      "advanced": 60
+    },
+    "icon": "🧘‍♀️",
+    "difficulty": "Intermediate",
+    "targetMuscles": ["Abs", "Back"],
+    "instructions": [
+      "Keep your elbows directly under your shoulders",
+      "Your body should form a straight line from head to heels",
+      "Don't lift your hips up or drop them down",
+      "Engage your abdominal muscles"
+    ],
+    "commonMistakes": [
+      "Hips lifting too high",
+      "Low back arching",
+      "Head dropping forward"
+    ]
+  },
+  {
+    "id": "squat",
+    "name": "Squat",
+    "type": "reps",
+    "reps": {
+      "beginner": 10,
+      "intermediate": 15,
+      "advanced": 20
+    },
+    "icon": "🦵",
+    "difficulty": "Beginner",
+    "targetMuscles": ["Legs", "Hips"],
+    "instructions": [
+      "Feet shoulder-width apart",
+      "Knees aligned with toes, don't let them cave in",
+      "Chest up and core engaged",
+      "Hip should reach knee level (90 degrees)"
+    ],
+    "commonMistakes": [
+      "Knees going over toes",
+      "Back arching",
+      "Knees caving in"
+    ]
+  },
+  {
+    "id": "bicep-curl",
+    "name": "Bicep Curl",
+    "type": "reps",
+    "reps": {
+      "beginner": 12,
+      "intermediate": 15,
+      "advanced": 20
+    },
+    "icon": "💪",
+    "difficulty": "Beginner",
+    "targetMuscles": ["Arms"],
+    "instructions": [
+      "Elbowed directly under your shoulders",
+      "Only the forearm should move",
+      "Exhale while lifting upward",
+      "Inhale while lowering",
+      "Lower the weight in a controlled manner"
+    ],
+    "commonMistakes": [
+      "Elbow swinging",
+      "Body swinging",
+      "Too fast movement"
+    ]
+  },
+  {
+    "id": "push-up",
+    "name": "Push-up",
+    "type": "reps",
+    "reps": {
+      "beginner": 8,
+      "intermediate": 12,
+      "advanced": 20
+    },
+    "icon": "🤸",
+    "difficulty": "Intermediate",
+    "targetMuscles": ["Chest", "Arms", "Abs"],
+    "instructions": [
+      "Stand sideways to the camera so your whole body is visible",
+      "Hands slightly wider than shoulder-width",
+      "Keep your body in a straight line from head to heels",
+      "Lower until your elbows reach about 90 degrees",
+      "Push back up to full arm extension"
+    ],
+    "commonMistakes": [
+      "Hips sagging down",
+      "Hips piking up too high",
+      "Not going low enough"
+    ]
+  },
+  {
+    "id": "lunge",
+    "name": "Lunge",
+    "type": "reps",
+    "reps": {
+      "beginner": 10,
+      "intermediate": 14,
+      "advanced": 20
+    },
+    "icon": "🚶",
+    "difficulty": "Beginner",
+    "targetMuscles": ["Legs", "Hips"],
+    "instructions": [
+      "Stand sideways to the camera",
+      "Step forward and lower your hips until both knees are bent around 90 degrees",
+      "Front knee should stay above the ankle, not past the toes",
+      "Push back up through the front heel to the starting position"
+    ],
+    "commonMistakes": [
+      "Front knee going past the toes",
+      "Leaning the torso too far forward",
+      "Back knee slamming into the ground"
+    ]
+  },
+  {
+    "id": "shoulder-press",
+    "name": "Shoulder Press",
+    "type": "reps",
+    "reps": {
+      "beginner": 10,
+      "intermediate": 12,
+      "advanced": 15
+    },
+    "icon": "🏋️",
+    "difficulty": "Intermediate",
+    "targetMuscles": ["Shoulders", "Arms"],
+    "instructions": [
+      "Start with elbows bent at shoulder height",
+      "Press upward until your arms are fully extended overhead",
+      "Lower back down in a controlled manner",
+      "Keep your core engaged, avoid arching your back"
+    ],
+    "commonMistakes": [
+      "Not fully extending overhead",
+      "Arching the lower back",
+      "Moving too fast"
+    ]
+  },
+  {
+    "id": "sit-up",
+    "name": "Sit-up",
+    "type": "reps",
+    "reps": {
+      "beginner": 10,
+      "intermediate": 15,
+      "advanced": 25
+    },
+    "icon": "🔥",
+    "difficulty": "Beginner",
+    "targetMuscles": ["Abs"],
+    "instructions": [
+      "Lie on your back, knees bent, feet flat on the ground",
+      "Position the camera to your side",
+      "Curl your torso up toward your knees",
+      "Lower back down with control, don't let your head slam down"
+    ],
+    "commonMistakes": [
+      "Not curling up far enough",
+      "Pulling on the neck",
+      "Using momentum instead of controlled movement"
+    ]
+  },
+  {
+    "id": "glute-bridge",
+    "name": "Glute Bridge",
+    "type": "reps",
+    "reps": {
+      "beginner": 12,
+      "intermediate": 16,
+      "advanced": 25
+    },
+    "icon": "🍑",
+    "difficulty": "Beginner",
+    "targetMuscles": ["Hips", "Abs"],
+    "instructions": [
+      "Lie on your back, knees bent, feet flat on the ground",
+      "Position the camera to your side",
+      "Lift your hips until your body forms a straight line from shoulders to knees",
+      "Squeeze your glutes at the top, then lower with control"
+    ],
+    "commonMistakes": [
+      "Not lifting the hips high enough",
+      "Overarching the lower back at the top",
+      "Feet too far from the hips"
+    ]
+  },
+  {
+    "id": "jumping-jack",
+    "name": "Jumping Jack",
+    "type": "reps",
+    "reps": {
+      "beginner": 15,
+      "intermediate": 25,
+      "advanced": 40
+    },
+    "icon": "⭐",
+    "difficulty": "Beginner",
+    "targetMuscles": ["Legs", "Shoulders", "Abs"],
+    "instructions": [
+      "Stand facing the camera so your whole body is visible",
+      "Jump your feet apart while raising your arms overhead",
+      "Jump back to the starting position with arms at your sides",
+      "Keep a steady, controlled rhythm"
+    ],
+    "commonMistakes": [
+      "Arms not reaching overhead",
+      "Feet not spreading past shoulder-width",
+      "Losing rhythm/control"
+    ]
+  }
+]

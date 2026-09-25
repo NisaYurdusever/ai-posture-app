@@ -1,0 +1,58 @@
+[
+  {
+    "phase": "Follicular Phase",
+    "days": [1, 2, 3, 4, 5, 6, 7],
+    "intensity": "High",
+    "color": "cyan",
+    "energyLevel": "high",
+    "description": "Your energy level is high! It's the ideal time for weight training and high-intensity exercises.",
+    "recommendedExercises": ["squat", "deadlift", "hiit"],
+    "tips": [
+      "Your strength is at its peak during this phase",
+      "You can work with heavy weights",
+      "Ideal for setting new personal records"
+    ]
+  },
+  {
+    "phase": "Ovulation",
+    "days": [8, 9, 10, 11, 12, 13, 14],
+    "intensity": "Maximum",
+    "color": "violet",
+    "energyLevel": "maximum",
+    "description": "Maximum strength and endurance! The best period for your most challenging workouts.",
+    "recommendedExercises": ["all"],
+    "tips": [
+      "Hormones are at their highest level",
+      "Perform the most demanding exercises in this phase",
+      "Performance will be at its peak"
+    ]
+  },
+  {
+    "phase": "Early Luteal Phase",
+    "days": [15, 16, 17, 18, 19, 20, 21],
+    "intensity": "Moderate",
+    "color": "fuchsia",
+    "energyLevel": "moderate",
+    "description": "Energy levels are starting to decrease. Prefer moderate-intensity exercises.",
+    "recommendedExercises": ["pilates", "yoga", "moderate-cardio"],
+    "tips": [
+      "You may feel some fatigue",
+      "Exercise at a moderate pace",
+      "Increase your rest days"
+    ]
+  },
+  {
+    "phase": "Late Luteal / Menstrual Phase",
+    "days": [22, 23, 24, 25, 26, 27, 28],
+    "intensity": "Low",
+    "color": "rose",
+    "energyLevel": "low",
+    "description": "Prioritize rest! Light cardio and flexibility exercises are ideal.",
+    "recommendedExercises": ["walking", "stretching", "light-yoga"],
+    "tips": [
+      "Listen to your body",
+      "Opt for light exercises",
+      "Drink plenty of water and get good sleep"
+    ]
+  }
+]
